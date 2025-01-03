@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Juan but I'm better known as **fafi**, I'm a student of **cybersecurity and software development**.
+
+I’m currently learning **pentesting and computer science** related topics to improve my understanding of things at a low level.
+
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,docker,linux,windows)](https://skillicons.dev)
+
+
 <!--
 **xfafi/xfafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
